@@ -1,0 +1,7 @@
+zookeeper:
+  timeout: 2000
+  registryAddress: 127.0.0.1:2181
+
+spring:
+  application:
+    name:
